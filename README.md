@@ -88,25 +88,10 @@ python main.py
 ------------------------------------------------------------------------
 
 ## 📸 Screenshots
-
-     
-
-    screenshots/
-     ├── login.png
-
-     <img width="427" height="356" alt="image" src="https://github.com/user-attachments/assets/b078684f-7244-46b7-9f49-2196f65bf1c9" />
-
-     └── dashboard.png
-
-     <img width="830" height="555" alt="image" src="https://github.com/user-attachments/assets/ce7bacfc-f0ac-4611-9494-55a631501e20" />
+<img width="427" height="356" alt="Screenshot 2026-01-11 080829" src="https://github.com/user-attachments/assets/5dc09e0d-4fa6-458b-9380-c510d3e81395" />
+<img width="830" height="555" alt="Screenshot 2026-01-11 080918" src="https://github.com/user-attachments/assets/770e0dfd-56df-497f-b440-21d6a6a653cd" />
 
 
-Then add in README:
-
-``` md
-![Login Screen](screenshots/login.png)
-![Dashboard](screenshots/dashboard.png)
-```
 
 ------------------------------------------------------------------------
 
