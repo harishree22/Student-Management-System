@@ -89,6 +89,8 @@ python main.py
 
 ## 📸 Screenshots
 
+     
+
     screenshots/
      ├── login.png
 
@@ -113,13 +115,6 @@ Then add in README:
 -   🔐 Role-based login (Admin / Staff)\
 -   🗄️ Database integration (MySQL / SQLite)\
 -   🔍 Search & Filter students\
-
-------------------------------------------------------------------------
-
-## 🤝 Contributing
-
-Contributions are welcome!\
-Fork this repo and submit a pull request.
 
 ------------------------------------------------------------------------
 
