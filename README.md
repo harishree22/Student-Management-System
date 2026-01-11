@@ -89,11 +89,15 @@ python main.py
 
 ## 📸 Screenshots
 
-Add screenshots inside a folder named **screenshots**
-
     screenshots/
      ├── login.png
+
+     <img width="427" height="356" alt="image" src="https://github.com/user-attachments/assets/b078684f-7244-46b7-9f49-2196f65bf1c9" />
+
      └── dashboard.png
+
+     <img width="830" height="555" alt="image" src="https://github.com/user-attachments/assets/ce7bacfc-f0ac-4611-9494-55a631501e20" />
+
 
 Then add in README:
 
